@@ -1,0 +1,19 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Fitv",
+  "description": "Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark.",
+  "colors": { "primary": "#111111", "light": "#333333", "dark": "#000000" },
+  "navigation": {
+    "groups": [
+      { "group": "Fitv", "pages": ["index"] }
+    ]
+  },
+  "navbar": {
+    "links": [{ "label": "Website", "href": "https://freeimagetovideo.ai/?utm_source=mintlify&utm_medium=docs" }],
+    "primary": { "type": "button", "label": "Open Fitv", "href": "https://freeimagetovideo.ai/?utm_source=mintlify&utm_medium=docs" }
+  },
+  "footer": {
+    "socials": { "website": "https://freeimagetovideo.ai/?utm_source=mintlify&utm_medium=docs", "github": "https://github.com/hanshs474/fitv-docs" }
+  }
+}
